@@ -18,8 +18,9 @@ p.content {
 }
 p.contact {
   margin-left: 10vw
-} -->
+}
 </style>
+-->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=e23thr&label=Profile%20views&color=0e75b6&style=flat" alt="e23thr" /> </p>
 
