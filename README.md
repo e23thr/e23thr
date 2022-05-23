@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praphan Oranphanlert</h1>
 <h3 align="center">Freelance Developer</h3>
-<style>
+<!-- <style>
 p.lang-and-tools {
   margin-left: 10vw;
   margin-right: 10vw;
@@ -18,7 +18,7 @@ p.content {
 }
 p.contact {
   margin-left: 10vw
-}
+} -->
 </style>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=e23thr&label=Profile%20views&color=0e75b6&style=flat" alt="e23thr" /> </p>
