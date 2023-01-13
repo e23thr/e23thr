@@ -385,4 +385,6 @@ p.contact {
 
 <p class="content"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e23thr&" alt="e23thr" /></p>
 
-<figure><embed src="https://wakatime.com/share/@e23thr/06eb1da1-4052-4283-ae51-8f2eec9f2565.svg"></embed></figure>
+<p class="content">
+<img src="https://wakatime.com/share/@e23thr/06eb1da1-4052-4283-ae51-8f2eec9f2565.svg" width="50%" />
+</p>
