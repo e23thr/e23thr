@@ -384,3 +384,5 @@ p.contact {
 <p class="content"><img align="center" src="https://github-readme-stats.vercel.app/api?username=e23thr&show_icons=true&locale=en" alt="e23thr" /></p>
 
 <p class="content"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e23thr&" alt="e23thr" /></p>
+
+<figure><embed src="https://wakatime.com/share/@e23thr/06eb1da1-4052-4283-ae51-8f2eec9f2565.svg"></embed></figure>
