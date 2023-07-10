@@ -39,6 +39,10 @@ p.contact {
   Line ID: <a href="https://line.me/ti/p/~e23thr" alt="Line ID: e23thr">e23thr</a>
 </p>
 
+<p align="left" class="contact">
+  Freelance Jobs: <a href="https://fastwork.co/user/praphan">Fastwork.co</a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" class="lang-and-tools">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -377,13 +381,21 @@ p.contact {
       height="40"
     />
   </a>
-  <a href="" target="_blank" rel="noreferer">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg"
       alt="nestjs"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress.svg" target="_blank" rel="noreferer">
+    <img 
+      src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress.svg"
+      alt="Cypress"
+      width="40"
+      height="40"
+      />
   </a>
 </p>
 
